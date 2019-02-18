@@ -58,6 +58,7 @@ p {
 .logo {
   display:inline-block;
   border: 4px solid rgb(204,204,204);
+  width:22%;
 }
 
 .logo:hover {
